@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>My name is Arshadul Islam Sourav.I study in Comilla University department of ICT. </p>
+    
+
+    <p>This is bold: <b>Mango</b></p>
+    <p>This is italic: <i>Tiger</i></p>
+    <p>This is underline: <u>Jackfruits</u></p>
+     <p>Hyperlink: <a href="https://www.youtube.com/watch?v=5r0hfplJNT8">Bekhayali | Team An Action Hero | India Ki Farmaish</a></p>
+
+    <img src="sourav.jpg" alt="Sourav Profile Picture" style="width:300px;height:400px;">
+
+</body>
+</html>

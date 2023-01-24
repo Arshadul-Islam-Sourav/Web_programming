@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sourav Details</title>
+    <link rel="icon" type="image/jpg" href="favicon.jpg">
+    
+    <style>
+body {
+  background-image: url('background.jpg');
+}
+</style>
+</head>
+<body>
+    <p>Heading One:</p>
+    <h1>Sourav</h1>
+    <p>Heading Three: </p>
+    <h3>ICT</h3>
+    <p>Heading Five: </p>
+    <h5>Riyad</h5>
+    <hr>
+
+    <ul>
+        <li>School: Bakalia Govt High School</li>
+        <li>College: Govt Mohsin College</li>
+        <li>University: Comilla University</li>
+      </ul>
+
+      <hr>
+      <ol>
+        <li>Saintmartin</li>
+        <li>Coxsbazar</li>
+        <li>SAjek</li>
+      </ol>
+
+      <hr>
+      <ol start="12">
+        <li>Messi</li>
+        <li>Neymar</li>
+        <li>Mbappe</li>
+      </ol>
+
+</body>
+</html>
